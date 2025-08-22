@@ -1,2 +1,0 @@
-# bngoc
-Hi
